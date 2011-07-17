@@ -1,15 +1,15 @@
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
+colorscheme dusk
+
 set nocompatible
 let mapleader = ","
 
 set enc=utf-8
 set fenc=utf-8
 
-filetype on
-filetype plugin on
-filetype indent on
+filetype plugin indent on
 
 syntax enable
 syntax on
@@ -33,3 +33,5 @@ nmap <C-h> <C-w>h
 nmap <C-j> <C-w>j
 nmap <C-k> <C-w>k
 nmap <C-l> <C-w>l
+
+nmap <leader>t :NERDTreeToggle<cr>
