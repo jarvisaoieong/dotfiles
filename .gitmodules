@@ -13,15 +13,9 @@
 [submodule "vim/bundle/autoclose"]
 	path = vim/bundle/autoclose
 	url = git://github.com/vim-scripts/AutoClose.git
-[submodule "vim/bundle/php-correct-indenting"]
-	path = vim/bundle/php-correct-indenting
-	url = git://github.com/vim-scripts/PHP-correct-Indenting.git
 [submodule "vim/bundle/taglist"]
 	path = vim/bundle/taglist
 	url = git://github.com/vim-scripts/taglist.vim.git
-[submodule "vim/bundle/phpcomplete"]
-	path = vim/bundle/phpcomplete
-	url = git://github.com/vim-scripts/phpcomplete.vim.git
 [submodule "vim/bundle/checksyntax"]
 	path = vim/bundle/checksyntax
 	url = git://github.com/vim-scripts/checksyntax-B.git
