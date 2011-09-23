@@ -28,3 +28,6 @@
 [submodule "vim/bundle/coffescript-vim-snippets"]
 	path = vim/bundle/coffescript-vim-snippets
 	url = git://github.com/carlosvillu/coffeScript-VIM-Snippets.git
+[submodule "vim/bundle/command-t"]
+	path = vim/bundle/command-t
+	url = git://github.com/wincent/Command-T.git
