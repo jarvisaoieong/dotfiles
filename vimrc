@@ -1,7 +1,6 @@
 set nocompatible
 call pathogen#infect()
 
-set guifont=Consolas:h16
 colorscheme vividchalk
 
 let mapleader = ","
