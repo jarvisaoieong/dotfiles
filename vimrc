@@ -28,6 +28,10 @@ set number
 set smartindent
 set autoindent
 
+set ignorecase
+set incsearch
+set hlsearch
+
 nmap <space> :
 
 nmap <C-h> <C-w>h
