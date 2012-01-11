@@ -15,12 +15,12 @@ syntax on
 
 set backspace=start,indent,eol
 
-set tabstop=4
-set shiftwidth=4
-set softtabstop=4
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
 set expandtab
-au BufNewFile,BufReadPost *.coffee setl tabstop=2 shiftwidth=2 softtabstop=2 expandtab
-au BufNewFile,BufReadPost *.coffee setl foldmethod=indent nofoldenable
+"au BufNewFile,BufReadPost *.coffee setl tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+"au BufNewFile,BufReadPost *.coffee setl foldmethod=indent nofoldenable
 
 set showcmd
 set number

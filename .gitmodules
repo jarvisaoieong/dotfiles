@@ -16,9 +16,6 @@
 [submodule "vim/bundle/taglist"]
 	path = vim/bundle/taglist
 	url = git://github.com/vim-scripts/taglist.vim.git
-[submodule "vim/bundle/checksyntax"]
-	path = vim/bundle/checksyntax
-	url = git://github.com/vim-scripts/checksyntax-B.git
 [submodule "vim/bundle/color-dusk"]
 	path = vim/bundle/color-dusk
 	url = git://github.com/vim-scripts/dusk.git
