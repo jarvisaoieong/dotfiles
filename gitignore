@@ -50,3 +50,6 @@ build/*
 xcuserdata
 profile
 *.moved-aside
+
+# brunch
+build
